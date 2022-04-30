@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/src/main/shaders"/></dataSet><dataSet config="debug" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/src/debug/shaders"/></dataSet></merger>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/state_name_nick_name_item.xml",
+        "source": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/src/main/res/layout/state_name_nick_name_item.xml"
+    },
+    {
+        "merged": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_details.xml",
+        "source": "/Users/govardhan/Documents/MAD_Ind05_Govardhan_Digumurthi-master-2/MAD_Ind_Govardhan_Digumurthi/src/main/res/layout/activity_details.xml"
+    }
+]
